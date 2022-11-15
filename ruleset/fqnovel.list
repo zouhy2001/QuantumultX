@@ -37,3 +37,6 @@ ip-cidr,180.96.2.114/32,reject,no-resolve
 #host,reading-hl.snssdk.com,reject
 #host,i-hl.snssdk.com,reject
 #host,mon-lq.snssdk.com,reject
+
+host, p3-novel.byteimg.com,reject
+host, p6-novel.byteimg.com,reject
