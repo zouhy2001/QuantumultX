@@ -43,3 +43,6 @@ host, p3-novel.byteimg.com,reject
 host, p6-novel.byteimg.com,reject
 host, p6-ad-sign.byteimg.com,reject
 host-suffix, douyinpic.com,reject
+host, log5-applog-if.fqnovel.com,reject
+host, ads5-normal-if.zijieapi.com,reject
+host, api5-normal-if.fqnovel.com.reject
