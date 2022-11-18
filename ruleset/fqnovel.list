@@ -39,8 +39,8 @@ ip-cidr,180.96.2.114/32,reject,no-resolve
 #host,mon-lq.snssdk.com,reject
 
 # 新增规则
-host, p3-novel.byteimg.com,reject
-host, p6-novel.byteimg.com,reject
+# host, p3-novel.byteimg.com,reject
+# host, p6-novel.byteimg.com,reject
 host, p6-ad-sign.byteimg.com,reject
 host-suffix, douyinpic.com,reject
 host, log5-applog-if.fqnovel.com,reject
