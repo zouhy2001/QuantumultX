@@ -1,8 +1,7 @@
 /*
 [rewrite_local]
 
-^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response  https
-://ghproxy.com/https://raw.githubusercontent.com/zouhy2001/QuantumultX/master/rewrite/emby.js
+^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response  https://ghproxy.com/https://raw.githubusercontent.com/zouhy2001/QuantumultX/master/rewrite/emby.js
 
 [mitm]
 
